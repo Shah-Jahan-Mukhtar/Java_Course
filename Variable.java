@@ -3,7 +3,8 @@ public class Variable {
     
     //This is Java Variables
 
-    String str="Shahjahan"; 
+    String str="ALI"; 
+    String str2="Hamza";
     int a=5;
     int b=10;
     int c=a+b;
@@ -18,6 +19,8 @@ public class Variable {
 
 
     //Display Variables
+
+    System.out.println(str+"  "+str2);
 
 
 
