@@ -1,7 +1,7 @@
 
 
 public class Datatype {
-    public static void main(){
+    public static void main(String[] args){
         int myNum=12;
         float myFloat =15.65f;
         char myChar='D';
@@ -10,7 +10,7 @@ public class Datatype {
 
         
         Integer a=45;
-        System.out.println(myNum + " "+a+myFloat+" "+myChar +" "+bool+str);
+        System.out.println(myNum + "\n"+a +"\n"+myFloat+"\n"+myChar +"\n "+bool+ " \n"+str);
 
 
         
