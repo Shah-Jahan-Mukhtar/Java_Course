@@ -9,9 +9,11 @@ public class Variable {
     int b=10;
     int c=a+b;
     float flt=1.12f;
+    
     System.out.println(c);
     System.out.println(c*2);
     System.out.println(str);
+    
 
 
     
@@ -24,8 +26,10 @@ public class Variable {
 
 
 
+    }
+
+
 
 
 
   }
-}
