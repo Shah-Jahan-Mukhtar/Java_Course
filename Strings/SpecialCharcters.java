@@ -27,16 +27,41 @@ public static void main(String [] args){
 
 
 String text="This is some \"Special\" text";
+
+System.out.println(text);
+
 String text1="This is some \'Special\' text";
 
 
 String text2="This is some \\Special text";
+
+
+// Six other escape sequences are valid in Java:
+// Code 	Result 	Try it
+// \n 	New Line 	
+
+
+// \r 	Carriage Return 	
+
 String text3="This is some \r Special text";
 
 
+
+
+// \t 	Tab 	
+
 String text4="This is New \t Special text";
 
+
+
+
+// \b 	Backspace 	
+
 String text5="This is New \b Special text";
+
+
+
+// \f 	Form Feed
 
 String text6="This is New \f Special text";
 
@@ -45,7 +70,6 @@ String text6="This is New \f Special text";
 
 
 
-System.out.println(text);
 
 System.out.println(text1);
 
