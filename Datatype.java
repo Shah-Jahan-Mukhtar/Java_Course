@@ -7,10 +7,14 @@ public class Datatype {
         char myChar='D';
         boolean bool=true;
         String str="ustad jami";
+double dub=456E1;
 
+char var=65,var2=66;
         
         Integer a=45;
-        System.out.println(myNum + "\n"+a +"\n"+myFloat+"\n"+myChar +"\n "+bool+ " \n"+str);
+        System.out.println(myNum + "\n"+a +"\n"+myFloat+"\n"+myChar +"\n "+bool+ " \n"+str+ " \n"+dub+'\n'+var+" \n"+var2);
+
+        
 
 
         
