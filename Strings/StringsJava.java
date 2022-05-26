@@ -1,3 +1,4 @@
+package Strings;
 import javax.print.DocFlavor.STRING;
 
 public class StringsJava {
