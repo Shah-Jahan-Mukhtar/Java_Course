@@ -11,7 +11,7 @@ String text=System.console().readLine();
         System.out.print("Please enter second  the Values" +" \n" );
 
         String text2=System.console().readLine();
-String addition=text+text2;
+Integer addition=Integer.parseInt(text)+Integer.parseInt(text2);
         System.out.println(" The addition of two numbers is :"+addition);
 
     }
