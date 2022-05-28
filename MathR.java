@@ -27,9 +27,11 @@ System.out.println(y);
 // The Math.sqrt(x) method returns the square root of x:
 
 
-int z=Math.sqrt(64);
 
-System.out.println(z);
+System.out.println(
+Math.sqrt(64)
+
+);
 
 
 // Math.abs(x)
@@ -37,23 +39,23 @@ System.out.println(z);
 // The Math.abs(x) method returns the absolute (positive) value of x:
 
 
-Math.abs(-4.7);
+// Math.abs(-4.7);
 
 
 
-Random Numbers
+// Random Numbers
 
-Math.random() returns a random number between 0.0 (inclusive), and 1.0 (exclusive):
-Example
+// Math.random() returns a random number between 0.0 (inclusive), and 1.0 (exclusive):
+// Example
 
-Math.random();
+// Math.random();
 
 
 
-To get more control over the random number, e.g. you only want a random number between 0 and 100, you can use the following formula:
-Example
+// To get more control over the random number, e.g. you only want a random number between 0 and 100, you can use the following formula:
+// Example
 
-int randomNum = (int)(Math.random() * 101);  // 0 to 100
+// int randomNum = (int)(Math.random() * 101);  // 0 to 100
 
     }
 }
