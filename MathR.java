@@ -39,8 +39,8 @@ Math.sqrt(64)
 // The Math.abs(x) method returns the absolute (positive) value of x:
 
 
-// Math.abs(-4.7);
-
+System.out.println(Math.abs(-4.7)
+);
 
 
 // Random Numbers
@@ -48,7 +48,11 @@ Math.sqrt(64)
 // Math.random() returns a random number between 0.0 (inclusive), and 1.0 (exclusive):
 // Example
 
-// Math.random();
+System.out.println(
+
+Math.random()
+
+);
 
 
 
