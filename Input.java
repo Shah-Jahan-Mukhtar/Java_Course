@@ -12,7 +12,7 @@ String text=System.console().readLine();
 
         String text2=System.console().readLine();
 Integer addition=Integer.parseInt(text)+Integer.parseInt(text2);
-        System.out.println(" The addition of two numbers is :"+addition);
+        System.out.println(" The addition of two numbers is :"+addition.toString());
 
     }
 
