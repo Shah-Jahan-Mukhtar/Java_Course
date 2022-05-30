@@ -19,6 +19,21 @@ boolean isFishTasty = false;
 System.out.println(isJavaFun);     // Outputs true
 System.out.println(isFishTasty);   // Outputs false
 
-    }
+
+
+// Boolean Expression
+
+// A Boolean expression is a Java expression that returns a Boolean value: true or false.
+
+// You can use a comparison operator, such as the greater than (>) operator to find out if an expression (or a variable) is true:
+    
+
+// Example
+
+int x = 10;
+int y = 9;
+System.out.println(x > y); // returns true, because 10 is higher than 9
+
+}
     
 }
