@@ -11,7 +11,7 @@ public class While {
        int j=0;
        do{
         System.out.println(j);
-    j++;
+    ++j;
        }
     while(i<5);
    
