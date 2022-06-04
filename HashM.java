@@ -8,5 +8,9 @@ public class HashM {
         hm.put("19014156-030",50);
         hm.get("19014156-030");
         System.out.println(hm);
+
+System.out.println("Hello");
+
+
     }
 }
