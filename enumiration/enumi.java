@@ -1,7 +1,7 @@
-package Strings.enumiration;
+package enumiration;
 
 public class enumi {
-    enum piza {
+  public  enum Piza {
         Tikka,
         Chess,
         Chukin
